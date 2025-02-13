@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #D17D98;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Lobster", sans-serif;
+  background-color: #f8c8eb;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+section h1 {
+  font-size: 3rem;
+}
+section .options {
+  font-family: "Courier New", Courier, monospace;
+  border: 2px solid red;
+}
+section .options button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  color: #f8c8eb;
+}
+section .options #yes-btn {
+  background-color: rgb(41, 189, 41);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+section .options #no-btn {
+  background-color: rgb(235, 10, 10);
+}
+section #click {
+  display: none;
+  text-decoration: none;
+  color: #D17D98;
+  font-size: 1.5rem;
+  transition: all 0.3s ease;
+}
+section #click:hover {
+  color: white;
+}
+
+/*# sourceMappingURL=choiceStyle.css.map */
