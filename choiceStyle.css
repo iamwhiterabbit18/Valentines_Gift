@@ -25,6 +25,7 @@ section h1 {
   font-size: 3rem;
 }
 section .options {
+  border: 2px solid blue;
   font-family: "Courier New", Courier, monospace;
 }
 section .options button {
