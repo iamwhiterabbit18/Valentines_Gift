@@ -33,7 +33,7 @@
 79C:\Programming\Projects\Valentines_gift\node_modules\picocolors\picocolors.d.ts133832997964470726 0
 91C:\Programming\Projects\Valentines_gift\node_modules\@parcel\core\src\public\Environment.js133832998059268756 0
 130C:\Programming\Projects\Valentines_gift\node_modules\motion\dist\es\framer-motion\dist\es\value\types\utils\single-color-regex.mjs133831427498720589 0
-59C:\Programming\Projects\Valentines_gift\choiceStyle.css.map133839300255382110 0
+59C:\Programming\Projects\Valentines_gift\choiceStyle.css.map133839323563184017 0
 97C:\Programming\Projects\Valentines_gift\node_modules\caniuse-lite\data\features\battery-status.js133832998050097215 0
 83C:\Programming\Projects\Valentines_gift\node_modules\sass\types\value\function.d.ts133831423489171167 0
 90C:\Programming\Projects\Valentines_gift\node_modules\motion-dom\dist\es\animation\controls133831427486985578 1
@@ -65,7 +65,7 @@
 78C:\Programming\Projects\Valentines_gift\node_modules\utility-types\SECURITY.md133832998021323615 0
 92C:\Programming\Projects\Valentines_gift\node_modules\caniuse-lite\data\features\classlist.js133832998065912714 0
 94C:\Programming\Projects\Valentines_gift\node_modules\@parcel\optimizer-swc\src\SwcOptimizer.js133832998000022859 0
-55C:\Programming\Projects\Valentines_gift\choiceStyle.css133839300255402112 0
+55C:\Programming\Projects\Valentines_gift\choiceStyle.css133839323563204022 0
 82C:\Programming\Projects\Valentines_gift\node_modules\@swc\helpers\esm\_to_array.js133832998079133373 0
 111C:\Programming\Projects\Valentines_gift\node_modules\motion\dist\es\framer-motion\dist\es\context\MotionContext133831427500223607 1
 97C:\Programming\Projects\Valentines_gift\node_modules\posthtml\node_modules\entities\lib\encode.js133832998025879530 0
@@ -76,14 +76,14 @@
 70C:\Programming\Projects\Valentines_gift\node_modules\anymatch\index.js133831427213277190 0
 52C:\Programming\Projects\Valentines_gift\node_modules133832998282232906 1
 91C:\Programming\Projects\Valentines_gift\node_modules\@swc\helpers\_\_ts_values\package.json133832998098813063 0
-56C:\Programming\Projects\Valentines_gift\choiceStyle.scss133839300254822407 0
+56C:\Programming\Projects\Valentines_gift\choiceStyle.scss133839323561811942 0
 113C:\Programming\Projects\Valentines_gift\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.d.ts.map133832998029418549 0
 61C:\Programming\Projects\Valentines_gift\node_modules\escalade133832997985422826 1
 93C:\Programming\Projects\Valentines_gift\node_modules\lightningcss-win32-x64-msvc\package.json133832997961465412 0
 94C:\Programming\Projects\Valentines_gift\node_modules\msgpackr-extract\node_modules\detect-libc133832998023964711 1
 81C:\Programming\Projects\Valentines_gift\node_modules\htmlparser2\lib\index.js.map133832998026557706 0
 89C:\Programming\Projects\Valentines_gift\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133832998072946621 0
-44C:\Programming\Projects\Valentines_gift\dist133839305256818590 1
+44C:\Programming\Projects\Valentines_gift\dist133839323653673046 1
 97C:\Programming\Projects\Valentines_gift\node_modules\@swc\helpers\_\_read_only_error\package.json133832998094744727 0
 99C:\Programming\Projects\Valentines_gift\node_modules\caniuse-lite\data\features\css-first-letter.js133832998076821127 0
 57C:\Programming\Projects\Valentines_gift\package-lock.json133832998288081699 0
@@ -6073,7 +6073,7 @@
 109C:\Programming\Projects\Valentines_gift\node_modules\@motionone\dom\lib\easing\create-generator-easing.js.map133832989294901224 0
 94C:\Programming\Projects\Valentines_gift\node_modules\@motionone\dom\lib\easing\spring\index.js133832989292388700 0
 98C:\Programming\Projects\Valentines_gift\node_modules\@motionone\dom\lib\easing\spring\index.js.map133832989296159232 0
-67C:\Programming\Projects\Valentines_gift\dist\index.86e411d4.css.map133839305252085274 0
+67C:\Programming\Projects\Valentines_gift\dist\index.86e411d4.css.map133839323653661485 0
 93C:\Programming\Projects\Valentines_gift\node_modules\@motionone\dom\lib\easing\glide\index.js133832989292338433 0
 88C:\Programming\Projects\Valentines_gift\node_modules\@motionone\dom\lib\animate\index.js133832989292319885 0
 92C:\Programming\Projects\Valentines_gift\node_modules\@motionone\dom\lib\animate\style.js.map133832989297051829 0
@@ -6216,7 +6216,7 @@
 62C:\Programming\Projects\Valentines_gift\dist\index.28d85639.js133839305252700125 0
 67C:\Programming\Projects\Valentines_gift\dist\index.3a01df49.css.map133839300459022144 0
 62C:\Programming\Projects\Valentines_gift\dist\index.5baa4167.js133839300458254018 0
-63C:\Programming\Projects\Valentines_gift\dist\index.86e411d4.css133839302198481277 0
+63C:\Programming\Projects\Valentines_gift\dist\index.86e411d4.css133839323653641258 0
 63C:\Programming\Projects\Valentines_gift\dist\index.a5503edf.css133839093283373100 0
 67C:\Programming\Projects\Valentines_gift\dist\index.a5503edf.css.map133839093283451061 0
 65C:\Programming\Projects\Valentines_gift\dist\poem.5baa4167.js.map133839305254252879 0
